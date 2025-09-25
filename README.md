@@ -1,12 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+come+to+my+Github.)](https://git.io/typing-svg)
-
-chore: Added .devcontainer for GitHub Codespaces. (#300)
-
-* Added .devcontainer for GitHub Codespaces.
-
-* Changed packages that will be installed.
-main
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={YOUR_USERNAME}&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <!--
 **fornever-lw/fornever-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
