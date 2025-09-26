@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+come+to+my+Github.)](https://git.io/typing-svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fornever-lw)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=fornever-lw)](https://git.io/streak-stats)       
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username={fornever-lw}&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!--
 **fornever-lw/fornever-lw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
